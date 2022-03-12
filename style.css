@@ -1,0 +1,21 @@
+.container {
+  background-color: darkcyan;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  background-color: black;
+  height: 400px;
+  width: 300px;
+  margin: 10px;
+}
+img {
+  height: 200px;
+}
+h1 {
+  color: antiquewhite;
+  text-align: center;
+}
